@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Новый комментарий
 namespace БазаДанныхМДК1102
 {
     public partial class Form1 : Form
